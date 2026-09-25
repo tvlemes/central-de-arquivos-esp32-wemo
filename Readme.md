@@ -32,14 +32,14 @@
 * [Evolução do projeto](#-evolução-do-projeto)
 * [Aplicações](#-aplicações)
 * [Roadmap](#-roadmap)
-* [Autor](#-autor)
 * [Licença](#-licença)
+* [Autor](#-autor)
 
 ---
 
 # 🚀 Sobre o projeto
 
-O **Central Dados** é um projeto de Internet das Coisas (IoT) desenvolvido sobre a plataforma **ESP32**, com o objetivo de transformar o microcontrolador em uma pequena central embarcada para armazenamento e gerenciamento de dados.
+O **Central de Dados** é um projeto de Internet das Coisas (IoT) desenvolvido sobre a plataforma **ESP32**, com o objetivo de transformar o microcontrolador em uma pequena central embarcada para armazenamento e gerenciamento de dados.
 
 O dispositivo utiliza um **cartão MicroSD** como unidade de armazenamento e disponibiliza uma **interface Web responsiva**, acessível através da rede Wi-Fi.
 
@@ -772,3 +772,10 @@ Consulte o arquivo `LICENSE` para obter os termos completos de utilização.
 ⭐ Se este projeto foi útil ou interessante, considere deixar uma estrela no repositório.
 
 </div>
+
+# 👨‍💻 Sobre
+
+👤 Autor: Thiago Vilarinho Lemes <br>
+🏠 Home: https://thiagolemes.netlify.app/ \
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/thiago-v-lemes-b1232727" target="_blank">Thiago Lemes</a><br>
+✉️ e-mail:contatothiagolemes@gmail.com | lemes_vilarinho@yahoo.com.br
