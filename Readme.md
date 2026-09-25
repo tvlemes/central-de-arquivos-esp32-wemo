@@ -1,6 +1,6 @@
-# 💾 Central Dados
+# 💾 Central de Arquivos
 
-> **Central de dados embarcada baseada em ESP32 + MicroSD + Wi-Fi, com gerenciamento de arquivos através de uma interface Web.**
+> **Central de Arquivos embarcada baseada em ESP32 + MicroSD + Wi-Fi, com gerenciamento de arquivos através de uma interface Web.**
 
 ![ESP32](https://img.shields.io/badge/ESP32-Embedded-red?style=for-the-badge\&logo=espressif)
 ![Arduino](https://img.shields.io/badge/Arduino-Framework-00979D?style=for-the-badge\&logo=arduino)
@@ -39,7 +39,7 @@
 
 # 🚀 Sobre o projeto
 
-O **Central de Dados** é um projeto de Internet das Coisas (IoT) desenvolvido sobre a plataforma **ESP32**, com o objetivo de transformar o microcontrolador em uma pequena central embarcada para armazenamento e gerenciamento de dados.
+O **Central de Arquivos** é um projeto de Internet das Coisas (IoT) desenvolvido sobre a plataforma **ESP32**, com o objetivo de transformar o microcontrolador em uma pequena central embarcada para armazenamento e gerenciamento de arquivos.
 
 O dispositivo utiliza um **cartão MicroSD** como unidade de armazenamento e disponibiliza uma **interface Web responsiva**, acessível através da rede Wi-Fi.
 

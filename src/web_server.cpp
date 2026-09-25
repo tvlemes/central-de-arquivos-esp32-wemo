@@ -3,7 +3,7 @@
                        WEB SERVER
 ====================================================================
 
-Central Dados
+Central de Arquivos
 WEMOS LOLIN32 / ESP32
 MicroSD + Wi-Fi
 
@@ -62,7 +62,7 @@ const char WEB_PAGE[] PROGMEM = R"rawliteral(
     content="width=device-width, initial-scale=1.0"
 >
 
-<title>Central de Dados</title>
+<title>Central de Arquivos</title>
 
 <style>
 
@@ -368,7 +368,7 @@ textarea {
 
 <div class="container">
 
-<h1>💾 Central Dados</h1>
+<h1>💾 Central de Arquivos</h1>
 
 <p>
 WEMOS LOLIN32 • ESP32 • MicroSD • Wi-Fi
