@@ -62,7 +62,7 @@ const char WEB_PAGE[] PROGMEM = R"rawliteral(
     content="width=device-width, initial-scale=1.0"
 >
 
-<title>Central Dados</title>
+<title>Central de Dados</title>
 
 <style>
 

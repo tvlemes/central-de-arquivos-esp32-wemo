@@ -23,7 +23,7 @@ const char WEB_PAGE[] PROGMEM = R"rawliteral(
     content="width=device-width, initial-scale=1.0"
 >
 
-<title>Central Dados</title>
+<title>Central de Dados</title>
 
 
 <style>
@@ -362,7 +362,7 @@ input[type="file"] {
 
 <header>
 
-    <h1>💾 Central Dados</h1>
+    <h1>💾 Central de Dados</h1>
 
     <p>
         WEMOS LOLIN32 • ESP32 • MicroSD • Wi-Fi
