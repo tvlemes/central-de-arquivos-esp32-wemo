@@ -39,7 +39,7 @@
 
 # 🚀 Sobre o projeto
 
-O **Central de Arquivos** é um projeto de Internet das Coisas (IoT) desenvolvido sobre a plataforma **ESP32**, com o objetivo de transformar o microcontrolador em uma pequena central embarcada para armazenamento e gerenciamento de arquivos.
+O **Central de Arquivos** é um projeto de **Internet das Coisas (IoT)** desenvolvido sobre a plataforma **ESP32**, com o objetivo de transformar o microcontrolador em uma pequena central embarcada para armazenamento e gerenciamento de arquivos.
 
 O dispositivo utiliza um **cartão MicroSD** como unidade de armazenamento e disponibiliza uma **interface Web responsiva**, acessível através da rede Wi-Fi.
 
@@ -773,7 +773,7 @@ Consulte o arquivo `LICENSE` para obter os termos completos de utilização.
 
 </div>
 
-# 👨‍💻 Sobre
+# 👨‍💻 Autor
 
 👤 Autor: Thiago Vilarinho Lemes <br>
 🏠 Home: https://thiagolemes.netlify.app/ \
